@@ -132,3 +132,7 @@ button p{
     font-weight: var(--font-bold);
     color: var(--white);
 }
+
+@media screen and (min-width:900px){
+
+}
